@@ -1,11 +1,18 @@
                                                                                         ***** DAA LAB PRACTICLES : *****
 
+  
   Name : Virendra Kashinath Bagul
+  
   Class : SY IT
+  
   Batch : S1
+  
   Roll No.: 05
 
+
+
 Submited practicles Names :
+
 
   1.Binary Search Program
   
