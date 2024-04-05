@@ -1,4 +1,4 @@
-                                                                                        ***** DAA LAB PRACTICLES : *****
+  DAA LAB :
 
   
   Name : Virendra Kashinath Bagul
@@ -11,7 +11,8 @@
 
 
 
-Submited practicles Names :
+
+Submited Practicles Names :
 
 
   1.Binary Search Program
