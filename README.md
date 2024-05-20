@@ -33,6 +33,10 @@ Submited Practicles Names :
   
   9.DFS program
 
+  10.Floyd_Warshall
+
+  11.Prims Algorithm
+
 
 📘 File Details
 
